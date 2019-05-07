@@ -1,5 +1,6 @@
 ---
-permalink: /test
+permalink: test
+layout: default
 ---
 
-Test page.:
+Test page
